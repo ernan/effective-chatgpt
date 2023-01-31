@@ -9,4 +9,9 @@
 7. [Benefits of ChatGPT](https://github.com/ernan/effective-chatgpt/blob/main/benefits.md)
 7. [Creating an Account](https://github.com/ernan/effective-chatgpt/blob/main/create-account.md)
 8. [User Interface](https://github.com/ernan/effective-chatgpt/blob/main/use-interface.md)
-
+9. [Customizing Settings](https://github.com/ernan/effective-chatgpt/blob/main/customizing-settings.md)
+10. [Create an Account](https://github.com/ernan/effective-chatgpt/blob/main/create-account.md)
+11. [Preferences](https://github.com/ernan/effective-chatgpt/blob/main/choose-preferences.md)
+12. [Preferences](https://github.com/ernan/effective-chatgpt/blob/main/choose-preferences.md)
+13. [Create a ChatBot](https://github.com/ernan/effective-chatgpt/blob/main/create-chatbot.md)
+14. [Cross Platform Capabilities](https://github.com/ernan/effective-chatgpt/blob/main/cross-platform.md)
