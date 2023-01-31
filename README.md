@@ -1,1 +1,3 @@
-# effective-chatgpt
+# Effective Chatgpt
+
+[Introduction](../introduction.md)
