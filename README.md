@@ -1,3 +1,5 @@
 # Effective Chatgpt
 
-[Introduction](../introduction.md)
+[Introduction](../blob/main/introduction.md)
+[Overview of ChatGPT](../blob/main/overview.md)
+
