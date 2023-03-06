@@ -1,0 +1,25 @@
+# list 20 effective prompts to get information from ChatGPT
+Sure, here are 20 effective prompts to get information from ChatGPT:
+
+[Can you tell me about the history of ChatGPT?](prompts\history.md)
+[What are the benefits of ChatGPT?](prompts\benefits.md)
+[How does ChatGPT work?](prompts\how-does-chatgpt-work.md)
+[What are some common misconceptions about ChatGPT?](prompts\history.md)
+[Can you explain ChatGPT in simple terms?](prompts\explain-in-simple-terms.md)
+[What are the key features of ChatGPT?](prompts\features.md)
+[What are some examples of ways to use ChatGPT to get work done more effectively?](prompts\examples-of-ways-to-use.md)
+[How is ChatGPT related to Artificail Intelligence?](prompts\history.md)
+[What are the advantages and disadvantages of ChatGPT?](prompts\advantages-and-disadvantages.md)
+[What are some current trends in ChatGPT?](prompts\current-trends.md)
+[How has ChatGPT evolved over time?](prompts\evolved.md)
+[What are some best practices for ChatGPT?](prompts\best-practices.md)
+[What are some common applications of ChatGPT?](prompts\common-applications.md)
+[What are some potential risks associated with ChatGPT?](prompts\history.md)
+[Can you compare and contrast ChatGPT and IBM Watson?](prompts\compare.md)
+[What are the most important things to consider when using ChatGPT for your business?](prompts\history.md)
+[How does ChatGPT impact the Software Developemtn Industry?](prompts\history.md)
+[What are some key statistics or facts about ChatGPT?](prompts\history.md)
+[Can you provide an overview of the different types of ChatGPT?](prompts\different-types.md)
+[How is ChatGPT relevant to current software development?](prompts\history.md)
+[What Is The “Context, Task, Instruction, Clarify, Refine” Technique?](prompts\context-task-instruction-clarify-refine.md)
+These prompts can be adjusted and customized to suit your specific needs and interests. Remember to provide enough context and be clear and concise when using these prompts to get the best response from ChatGPT.

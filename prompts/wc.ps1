@@ -1,0 +1,1 @@
+Get-ChildItem . -Recurse -Filter *.md | Get-Content | Measure-Object -Word -Line -Char
